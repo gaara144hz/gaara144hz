@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo(a)!+:%29" alt="github stats" /> 
 </div>
 <div align="center">  
-  <img src="https://discord.c99.nl/widget/theme-4/318920669825859595.png" alt="github stats" /> 
+  <img src="#" alt="github stats" /> 
 </div>
 <h3> 😸 &nbsp;Sobre mim: </h3>
   
-- 🧑‍🎓 intermediário na área.
-- 🔥 Dev BackEnd.
+- 🧑‍🎓 Iniciante na área.
+- 🔥 Front-End.
 - 😼 Focado em aprender.
-- 👩🏻‍💻 Aprimorando minhas habilidades em **```Java,Blender,Zbrush,UE4/5,IA```**.
+- 👩🏻‍💻 Aprimorando minhas habilidades
 - 📍 Localização: <img width="2%" height="2%" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png">
 
 <h3> 🌐 - Languages </h3>
